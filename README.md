@@ -19,7 +19,8 @@
 
  #### Решение 1 
 
-
+*Скриншот страницы шаблона*
+![Скриншот страницы шаблона](https://github.com/KupIOxaCaH/Zabbix2/blob/main/img/templates.png)
 
 
  ---
@@ -43,7 +44,7 @@
 
  #### Решение 2
 
-
+*Скриншоты в решении задания 3*
 
  ---
  
@@ -64,7 +65,11 @@
 
 #### Решение 3
 
+*Скриншот страницы хостов*
+![Скриншот страницы хостов](https://github.com/KupIOxaCaH/Zabbix2/blob/main/img/my_hosts.png)
 
+*Скриншот поступающих данных*
+![Скриншот поступающих данных](https://github.com/KupIOxaCaH/Zabbix2/blob/main/img/util.png)
 
 ---
 
@@ -84,7 +89,8 @@
 
 #### Решение 4
 
-
+*Скриншот дашборда*
+![Скриншот дашборда](https://github.com/KupIOxaCaH/Zabbix2/blob/main/img/my_dashboard.png)
 
 ---
 
